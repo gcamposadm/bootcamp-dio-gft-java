@@ -2,8 +2,8 @@
 Repositório do Bootcamp *GFT Start #5 Java*
 
 ## Códigos Construídos
-codigos --> src/me/dio --> desafios
-                       --> exercicios
+codigos --> src/me/dio --> [desafios](https://github.com/gcamposadm/bootcamp-dio-gft-java/tree/main/codigos/src/me/dio/desafios)
+                       --> [exercicios](https://github.com/gcamposadm/bootcamp-dio-gft-java/tree/main/codigos/src/me/dio/exercicios)
 
 ## Links Úteis
 - [Digital Innovation One - DIO](https://www.dio.me)
