@@ -1,4 +1,4 @@
-package me.dio.desafios;
+package me.dio.desafios.desafiodecodigo;
 
 import java.util.HashSet;
 import java.util.Scanner;

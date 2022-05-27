@@ -1,4 +1,4 @@
-package me.dio;
+package me.dio.exercicios;
 
 public class RodarCarro {
     public static void main(String[] args) {

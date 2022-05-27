@@ -1,4 +1,4 @@
-package me.dio.desafios.digital.banco;
+package me.dio.desafios.bancodigital;
 
 public class Cliente {
 

@@ -1,4 +1,4 @@
-package me.dio.desafios.live;
+package me.dio.desafios.livecamila;
 
 import java.util.Scanner;
 
